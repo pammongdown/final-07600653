@@ -59,7 +59,7 @@ public class UserAdapter extends RecyclerView.Adapter<UserAdapter.MyViewHolder> 
         public MyViewHolder(@NonNull View itemView) {
             super(itemView);
 
-            this.resultTextView = itemView.findViewById(R.id.textView2;
+            this.resultTextView = itemView.findViewById(R.id.textView2);
             this.distanceandtimeTextView = itemView.findViewById(R.id.textView3);
             this.pig = itemView.findViewById(R.id.imageView3);
         }
